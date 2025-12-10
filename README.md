@@ -16,20 +16,8 @@
 - building real-world backend services  
 - creating cleaner abstractions + learning proper architecture  
 - experimenting with config-heavy environments (hyprland + neovim)  
-- diving deeper into systems thinking  
-
----
-
-## 📊 Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Yusufdot101&show_icons=true&theme=tokyonight&hide=prs,issues" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusufdot101&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufdot101&layout=compact&theme=tokyonight" />
-</p>
-
+- diving deeper into systems thinking
+  
 ---
 
 ## 🛠️ Tools I Bruteforce Daily
